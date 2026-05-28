@@ -27,6 +27,8 @@ st.markdown("Find the best restaurants in Dublin based on your preferences.")
 
 col1, col2, col3, col4 = st.columns(4)
 
+search = st.text_input("🔍 Search restaurant name", "")
+
 with col1:
     cuisine_options = ["All"] + sorted(df["cuisine"].unique().tolist())
     cuisine = st.selectbox("Cuisine", cuisine_options)
@@ -65,6 +67,9 @@ with col4:
     max_distance = st.slider("Max distance (km)", 1, 10, 3)
 
 results = df.copy()
+
+if search:
+    results = results[results["name"].str.contains(search, case=False, na=False)]
 
 def haversine(lat1, lng1, lat2, lng2):
     R = 6371
