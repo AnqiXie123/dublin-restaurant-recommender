@@ -1,6 +1,11 @@
 import requests
 import pandas as pd
 
+from dotenv import load_dotenv
+import os
+load_dotenv()
+API_KEY = os.getenv("GOOGLE_API_KEY")
+
 API_KEY = "AIzaSyD5DVBNslkSyVlTU9PJ2HaCfckG9W249BU"
 
 CUISINES = [
