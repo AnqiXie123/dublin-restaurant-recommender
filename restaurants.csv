@@ -1,24 +1,4 @@
 name,address,cuisine,rating,review_count,price_level,website,lat,lng
-Bar Italia Ristorante,"26 Ormond Quay Lower, North City, Dublin, D01 CA21, Ireland",Italian,4.5,2465,PRICE_LEVEL_MODERATE,http://www.baritalia.ie/,53.3464835,-6.2649892
-Gloria Osteria Dublin,"41 Westmoreland St, Dublin, D02 VY45, Ireland",Italian,4.9,1652,,https://gloria-osteria.com/?tracking=mybusiness-website&utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website,53.3454372,-6.2588729999999995
-TONI,"1 Bedford Row, Temple Bar, Dublin, D02 RC61, Ireland",Italian,4.7,780,PRICE_LEVEL_MODERATE,https://www.toni.ie/,53.3457805,-6.2619301
-Il Vicoletto,"5 Crow St, Temple Bar, Dublin, D02 N228, Ireland",Italian,4.5,1552,PRICE_LEVEL_MODERATE,http://www.ilvicolettorestaurants.ie/,53.3445171,-6.2636742
-Toscana City Centre Italian Restaurant,"3 Cork Hl, Dame St, Temple Bar, Dublin, D02 DR53, Ireland",Italian,4.4,2616,PRICE_LEVEL_MODERATE,http://www.toscanarestaurant.ie/,53.3441752,-6.2675697
-La Caverna Restaurant and Wine Bar,"12 Fownes St Upper, Temple Bar, Dublin 2, D02 PY51, Ireland",Italian,4.7,3192,PRICE_LEVEL_MODERATE,http://www.lacaverna.ie/,53.3451399,-6.2632768
-Dall'Italiano Restaurant Glasnevin,"Hart's Corner, 1 2 Finglas Rd, Glasnevin, Dublin 11, D11 RD93, Ireland",Italian,4.9,2448,PRICE_LEVEL_MODERATE,,53.3660642,-6.2719526
-Da Mimmo,"148 N Strand Rd, North Wall, Dublin, D03 FK52, Ireland",Italian,4.6,1878,PRICE_LEVEL_MODERATE,http://www.damimmo.ie/,53.357325100000004,-6.2428199
-Pacino's Italian Restaurant,"18 Suffolk St, Dublin 2, D02 NP97, Ireland",Italian,4.3,2014,PRICE_LEVEL_MODERATE,http://pacinos.ie/,53.3433802,-6.259837300000001
-Dunne and Crescenzi,"14-16 Frederick St S, Dublin, D02 RK68, Ireland",Italian,4.4,1951,PRICE_LEVEL_MODERATE,https://www.dunneandcrescenzi.com/,53.3422242,-6.256606499999999
-Forno 500,"74 Dame St, Temple Bar, Dublin, D02 PY80, Ireland",Italian,4.4,2812,PRICE_LEVEL_MODERATE,http://www.forno500.ie/,53.3443233,-6.2662781999999995
-One Society,"1 Gardiner Street Lower, Mountjoy, Dublin 1, D01 P9Y1, Ireland",Italian,4.6,1744,PRICE_LEVEL_MODERATE,http://www.onesociety.ie/,53.3540899,-6.256557
-La Cosa Nostra,"37 Thomas St, The Liberties, Dublin, D08 A319, Ireland",Italian,4.8,352,,https://www.lacosanostra.ie/,53.342773099999995,-6.2800126
-Zizzi - Dublin Suffolk Street,"24 Suffolk St, Dublin, D02 FR96, Ireland",Italian,4.5,4032,PRICE_LEVEL_MODERATE,https://www.zizzi.co.uk/italian/restaurants/dublin-suffolk-street?utm_source=google&utm_medium=organic&utm_campaign=panel,53.3434901,-6.2603056
-Cafe Topolis,"37 Parliament St, Temple Bar, Dublin Southside, Co. Dublin, D02 NY92, Ireland",Italian,4.5,1326,PRICE_LEVEL_MODERATE,https://www.cafetopolis.com/,53.344331499999996,-6.267411699999999
-Virtuoso Restaurant,"10 Capel St, North City, Dublin, D01 PW32, Ireland",Italian,4.6,980,PRICE_LEVEL_INEXPENSIVE,,53.346737,-6.267899099999999
-Al Vesuvio,"Meeting House Square, Temple Bar, Dublin 2, Ireland",Italian,4.3,1440,PRICE_LEVEL_MODERATE,http://www.alvesuviopizzeria.com/,53.3448564,-6.265078
-Wood Fire Cafe,"3 Blessington St, Inns Quay, Dublin 7, D07 K443, Ireland",Italian,4.7,1389,PRICE_LEVEL_MODERATE,https://woodfirerestaurant.ie/,53.3563019,-6.2656721
-Rosa Madre,"7 Crow St, Temple Bar, Dublin, D02 YT38, Ireland",Italian,4.5,1233,PRICE_LEVEL_MODERATE,http://rosamadre.ie/,53.344836099999995,-6.2638361
-Terra Madre,"13A Bachelors Walk, North City, Dublin, D01 VN82, Ireland",Italian,4.5,928,PRICE_LEVEL_MODERATE,,53.3470203,-6.2619691
 Lee's Charming Noodles,"105 Parnell St, Rotunda, Dublin 1, D01 W448, Ireland",Chinese,4.5,969,PRICE_LEVEL_INEXPENSIVE,,53.353680399999995,-6.2585974
 Ka Shing Chinese Restaurant,"12A Wicklow St, Dublin 2, D02 ND37, Ireland",Chinese,4.2,1316,PRICE_LEVEL_MODERATE,https://kashingdublin.com/,53.3430155,-6.2608225
 Xian Street Food Dublin,"28 Anne St S, Dublin, D02 DX39, Ireland",Chinese,4.0,2640,PRICE_LEVEL_MODERATE,https://www.xianstreetfood.ie/,53.341033499999995,-6.2597141
@@ -40,8 +20,8 @@ Lao Chinese and Korean BBQ Restaurant,"102 Parnell St, Rotunda, Dublin 1, D01 V0
 Ne Zha,"22 Wexford St, Portobello, Dublin, D02 YW98, Ireland",Chinese,4.9,385,,https://www.nezha.ie/?utm_source=GBP.website&utm_medium=GBP&utm_campaign=br16222-website,53.336482,-6.265743
 CN Dumpling,"4b Montague St, Saint Kevin's, Dublin 2, D02 RX05, Ireland",Chinese,4.9,403,,https://www.cndumpling.ie/,53.3365362,-6.2647729
 Andhra Bhavan (Abbey St),"38 Abbey Street Upper, North City, Dublin 1, D01 A489, Ireland",Indian,4.8,4746,,http://www.andhrabhavan.ie/,53.3478595,-6.2639102
-Andhra Bhavan (Marlborough St),"85 Marlborough Pl, North City, Dublin 1, D01 A2X6, Ireland",Indian,4.7,5832,PRICE_LEVEL_MODERATE,https://andhrabhavan.ie/,53.3505165,-6.2584174
 Hyderabadi Kitchen Parnell Street,"143 Parnell St, Rotunda, Dublin, D01 R9P7, Ireland",Indian,4.8,2056,,https://hyderabadikitchen.ie/,53.3536613,-6.2593675
+Andhra Bhavan (Marlborough St),"85 Marlborough Pl, North City, Dublin 1, D01 A2X6, Ireland",Indian,4.7,5832,PRICE_LEVEL_MODERATE,https://andhrabhavan.ie/,53.3505165,-6.2584174
 Kathmandu Kitchen - Dublin,"18 Dame St, Dublin 2, D02 XF59, Ireland",Indian,4.3,1774,PRICE_LEVEL_MODERATE,https://kathmandukitchen.ie/,53.344051699999994,-6.2649747
 Hyderabadi Kitchen | Indian Restaurant Dublin,"34 Camden Street Upper, Saint Kevin's, Dublin 2, D02 TX06, Ireland",Indian,4.5,2087,PRICE_LEVEL_MODERATE,https://hyderabadi-kitchen.ie/,53.3327245,-6.2646286
 "Holi Indian Restaurant, Dublin","18 Drumcondra Rd Lower, Botanic, Dublin 9, D09 VX73, Ireland",Indian,4.9,377,,https://holi.ie/,53.362403699999994,-6.2591396
@@ -60,25 +40,25 @@ Indian Vibe - Dun Laoghaire,"Unit 2 Harbour Rd, Crofton Rd., Dún Laoghaire, Dub
 Kerala Kitchen,"5 Baggot Street Upper, Ballsbridge, Dublin 4, D04 N2X3, Ireland",Indian,4.2,1130,PRICE_LEVEL_MODERATE,https://www.keralakitchen.ie/,53.333736,-6.245114
 Diwali Restaurant,"1, Unit 1, South Great George's Street, Dublin, D02 HH93, Ireland",Indian,4.1,1578,PRICE_LEVEL_MODERATE,https://diwali.ie/?utm_source=GMBwebsite&utm_medium=organic&utm_campaign=Google%20My%20Business,53.342941599999996,-6.2646488
 Musashi Noodle & Sushi Bar,"15 Capel St, North City, Dublin 1, D01 E1C0, Ireland",Japanese,4.6,2938,PRICE_LEVEL_MODERATE,http://www.musashi.ie/,53.346947699999994,-6.268034
-DARUMA,"13 Parliament St, Temple Bar, Dublin 2, D02 P658, Ireland",Japanese,4.6,688,,http://daruma.ie/,53.3447685,-6.2673019
 Yamamori North City,"38 Ormond Quay Lower, North City, Dublin 1, D01 A593, Ireland",Japanese,4.5,3401,PRICE_LEVEL_MODERATE,https://www.yamamori.ie/northcity,53.3466143,-6.263825499999999
+DARUMA,"13 Parliament St, Temple Bar, Dublin 2, D02 P658, Ireland",Japanese,4.6,688,,http://daruma.ie/,53.3447685,-6.2673019
 Fujiyama Izakaya Dublin 1,"11 O'Connell Street Upper, North City, Dublin 1, D01 A2K0, Ireland",Japanese,4.5,1026,PRICE_LEVEL_MODERATE,https://fujiyamajapanese.ie/?utm_source=GMBwebsite&utm_medium=organic&utm_campaign=Google%20My%20Business,53.3506114,-6.260248700000001
 Eatokyo Noodles and Sushi Bar,"51 Wellington Quay, Temple Bar, Dublin 2, D02 NH04, Ireland",Japanese,4.5,2166,PRICE_LEVEL_MODERATE,https://eatokyo.ie/eatokyo-temple-bar/,53.3460087,-6.2626034
 Yoi Izakaya,"71 Mespil Rd, Dublin, D04 XA71, Ireland",Japanese,4.7,810,,https://www.yoiizakaya.ie/,53.333583,-6.2456559
 Kyodai Dame Street,"First Floor, Rear entrance via, 32 Dame St, Dame Ln, Dublin 2, D02 EA24, Ireland",Japanese,5.0,32,,https://kyodai.ie/,53.3441073,-6.263402
 Zakura Izakaya - Upper Baggot St,"7 Baggot Street Upper, Dublin 4, D04 K7H1, Ireland",Japanese,4.6,1891,PRICE_LEVEL_MODERATE,https://www.upper-baggot.zakura.ie/,53.3337295,-6.2449908999999995
-Yamamori Izakaya - Japas & Sake,"12 South Great George's Street, Dublin 2, D02 RD36, Ireland",Japanese,4.6,3414,PRICE_LEVEL_MODERATE,https://www.yamamori.ie/izakaya,53.343372300000006,-6.2642307
 Musashi Sushi Parnell Street,"179 Parnell St, Rotunda, Dublin 1, D01 YP60, Ireland",Japanese,4.5,1115,PRICE_LEVEL_MODERATE,http://www.musashi.ie/,53.3512836,-6.2644436
-Yamamori South City,"72 South Great George's Street, Dublin, D02 EC94, Ireland",Japanese,4.4,3677,PRICE_LEVEL_MODERATE,https://yamamori.ie/southcity,53.3428365,-6.2646734
-Zakura Noodle & Sushi Restaurant,"13 Wexford St, Dublin 2, D02 EW95, Ireland",Japanese,4.6,1821,PRICE_LEVEL_MODERATE,https://wexford.zakura.ie/,53.3369217,-6.2654228
+Yamamori Izakaya - Japas & Sake,"12 South Great George's Street, Dublin 2, D02 RD36, Ireland",Japanese,4.6,3414,PRICE_LEVEL_MODERATE,https://www.yamamori.ie/izakaya,53.343372300000006,-6.2642307
 Takara Ramen & Deli Sushi Bar,"37 Abbey Street Upper, North City, Dublin 1, D01 P585, Ireland",Japanese,4.6,2556,PRICE_LEVEL_MODERATE,https://www.takaradublin.ie/,53.3478373,-6.2640669
+Yamamori South City,"72 South Great George's Street, Dublin, D02 EC94, Ireland",Japanese,4.4,3677,PRICE_LEVEL_MODERATE,https://yamamori.ie/southcity,53.3428365,-6.2646734
 Hana Izakaya by Musashi,"154-155 Capel St, North City, Dublin 1, D01 RT73, Ireland",Japanese,4.4,177,,http://www.hanaizakaya.ie/,53.3470386,-6.2684413
+Zakura Noodle & Sushi Restaurant,"13 Wexford St, Dublin 2, D02 EW95, Ireland",Japanese,4.6,1821,PRICE_LEVEL_MODERATE,https://wexford.zakura.ie/,53.3369217,-6.2654228
 Zakura - Japanese Tapas (Japas & Sake Bar),"17A Baggot Street Lower, Dublin 2, D02 YN96, Ireland",Japanese,4.8,524,PRICE_LEVEL_MODERATE,https://lower-baggot.zakura.ie/,53.337857899999996,-6.251576699999999
 Takumi Japanese Restaurant,"The Campshire Cafe A, N Wall Quay, North Wall, Dublin 1, D01 EW68, Ireland",Japanese,4.7,62,,https://www.takumi.ie/,53.3476783,-6.2439808
 Japanese Kitchen by J2 Sushi,"No. 1, Poolbeg St, Dublin 2, D02 TY84, Ireland",Japanese,4.6,568,PRICE_LEVEL_INEXPENSIVE,https://www.japanesekitchenbyj2.ie/,53.346932599999995,-6.2569364
 Musashi IFSC Sushi & Cocktail Bar,"Custom House Square, Burton Hall, Unit 2 Mayor Street Lower, International Financial Services Centre, Dublin 1, D01 W6F2, Ireland",Japanese,4.5,1606,PRICE_LEVEL_MODERATE,https://www.musashidublin.ie/reservations?shopId=62a5e0c755ce366023d88d16,53.3496757,-6.2434262
-Ninja Sushi Asian Restaurant,"3 & 4 Lombard St E, Dublin 2, D02 VY96, Ireland",Japanese,4.6,793,,https://www.ninjasushirestaurant.ie/,53.344433800000004,-6.2488658
 The Boss Restaurant,"16 Prospect Rd, Glasnevin, Dublin 9, D09 A4P0, Ireland",Japanese,4.9,1936,,https://www.thebossrestaurant.ie/order#/where,53.365366599999994,-6.2714503
+Ninja Sushi Asian Restaurant,"3 & 4 Lombard St E, Dublin 2, D02 VY96, Ireland",Japanese,4.6,793,,https://www.ninjasushirestaurant.ie/,53.344433800000004,-6.2488658
 El Grito Mexican Taqueria Mountjoy Square,"20 Mountjoy Square E, Mountjoy, Dublin, D01 K3T1, Ireland",Mexican,4.5,3647,PRICE_LEVEL_INEXPENSIVE,https://elgrito.eu/,53.357393699999996,-6.2566581999999995
 AGAVE DUBLIN,"19-22 Lord Edward St, Dublin 2, D02 R500, Ireland",Mexican,4.5,765,,https://agavedublin.com/,53.3437352,-6.268987399999999
 Pickosito Northern Mexican Taqueria,"N Lotts, North City, Dublin 1, D01 K8N3, Ireland",Mexican,4.8,966,,https://www.instagram.com/pickosito.taqueria/?hl=en,53.3474073,-6.2630113
@@ -87,8 +67,8 @@ Pablo Picante,"4 Clarendon Market, Dublin Southside, Dublin, D02 AV84, Ireland",
 Mama's Revenge,"17 Leinster St S, Dublin, D02 KR58, Ireland",Mexican,4.5,1069,PRICE_LEVEL_INEXPENSIVE,http://mamasrevenge.com/,53.3419047,-6.253787099999999
 Acapulco Mexican Restaurant,"7 South Great George's Street, Dublin 2, D02 EV81, Ireland",Mexican,4.2,1641,PRICE_LEVEL_MODERATE,http://www.acapulco.ie/,53.343616,-6.2642333
 Tacos by Agave,"37 Aungier St, Dublin, D02 EV56, Ireland",Mexican,4.6,189,,https://deliveroo.ie/menu/dublin/st-stephens-green/tacos-by-agave?utm_campaign=organic&utm_medium=referrer&utm_source=menu_share,53.338735899999996,-6.2658641
-Mil Amores Mexican Taquería 🇲🇽🌮🇮🇪❤️‍🔥,"12 Liffey St. Lower, North City, Dublin, D01 W9F2, Ireland",Mexican,4.2,12,,https://www.instagram.com/milamoresie?igsh=dXltYWh4NXUzbGZr,53.3475441,-6.2633282999999995
 Masa Drury St,"2–3 Drury St, Dublin 2, D02 H520, Ireland",Mexican,4.5,1736,,http://www.masadublin.com/,53.341281599999995,-6.264094200000001
+Mil Amores Mexican Taquería 🇲🇽🌮🇮🇪❤️‍🔥,"12 Liffey St. Lower, North City, Dublin, D01 W9F2, Ireland",Mexican,4.2,12,,https://www.instagram.com/milamoresie?igsh=dXltYWh4NXUzbGZr,53.3475441,-6.2633282999999995
 777,"Castle House, 7 South Great George's Street, Dublin 2, D02 HX99, Ireland",Mexican,4.1,1906,PRICE_LEVEL_EXPENSIVE,http://www.777.ie/,53.343337399999996,-6.2645577999999995
 Tula Mexican Grill,"30 Essex St E, Temple Bar, Dublin, D02 CC02, Ireland",Mexican,4.3,540,,https://tulamexicangrill.com/,53.3453254,-6.2651653
 Salsa - Authentic Mexican Food,"7 King St N, Dublin, 7, Ireland",Mexican,4.5,166,,http://facebook.com/salsamexicanfood,53.3505915,-6.271262699999999
@@ -99,25 +79,6 @@ Pablo Picante Californian Burrito Bar,"131 Baggot Street Lower, Dublin 2, D02 Y2
 Pablo Picante,"32 Dawson St, Dublin 2, D02 EH36, Ireland",Mexican,4.2,264,,http://www.pablopicante.com/locations-menus/,53.340157,-6.258700200000001
 El Grito Mexican Taqueria,"137 Rathmines Rd Lower, Rathmines, Dublin, D06 V3Y8, Ireland",Mexican,4.3,477,PRICE_LEVEL_MODERATE,https://elgrito.eu/,53.325505299999996,-6.265320699999999
 Tula Mexican Grill,"12 Baggot Street Lower, Dublin 2, D02 EH66, Ireland",Mexican,4.6,83,,https://tulamexicangrill.com/,53.337958500000006,-6.252231999999999
-Thai Basil,"3 Millennium Walkway, North City, Dublin, Ireland",Thai,4.6,653,PRICE_LEVEL_MODERATE,http://thaibasil.ie/,53.3473871,-6.2655564
-Full Moon Thai Restaurant Dublin,"8 Parliament St, Temple Bar, Dublin, D02 E180, Ireland",Thai,4.4,1021,PRICE_LEVEL_MODERATE,http://www.fullmoon.ie/,53.344565,-6.267178299999999
-Thai Spice,"3A Talbot Pl, Mountjoy, Dublin 1, D01 R3W9, Ireland",Thai,4.5,884,PRICE_LEVEL_MODERATE,http://thaispice.ie/,53.350972299999995,-6.2511041999999994
-Red Torch Ginger Dublin 2,"14/15 St Andrew's St, Dublin, D02 HP58, Ireland",Thai,4.5,1574,PRICE_LEVEL_MODERATE,https://redtorchginger.ie/dublin2,53.3434829,-6.2619884
-Achara,"Aston Quay, Temple Bar, Dublin, D02 FV38, Ireland",Thai,4.4,291,,https://www.acharadublin.ie/,53.3464986,-6.260481700000001
-Thai Baan Cafe,"10 Abbey Street Upper, North City, Dublin 1, D01 PX48, Ireland",Thai,4.8,206,,https://thaibaancafe.ie/,53.3473475,-6.2673476
-Saba Restaurant,"7 William St S, Dublin 2, D02 CV65, Ireland",Thai,4.3,1366,PRICE_LEVEL_MODERATE,https://sabadublin.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing&utm_term=gbp_south_william_street,53.342724700000005,-6.2622943
-Kin Dee,"133 Leeson Street Upper, Dublin 4, D04 HX48, Ireland",Thai,4.9,46,,https://kindee.ie/,53.3305508,-6.251606799999999
-Yum Thai,"Duke St, Dublin, Ireland",Thai,4.1,377,PRICE_LEVEL_INEXPENSIVE,,53.341780199999995,-6.258519799999999
-Siam Thai Restaurant - Rathmines,"2 Castlewood Ave, Rathmines, Dublin, D06 T9T1, Ireland",Thai,4.4,248,PRICE_LEVEL_MODERATE,https://siamthai.ie/rathmines/,53.322635299999995,-6.2649140999999995
-Neon Asian Street Food,"17 Camden Street Lower, Saint Kevin's, Dublin, D02 TX94, Ireland",Thai,4.4,1857,PRICE_LEVEL_MODERATE,https://www.neon17.ie/,53.3353791,-6.2649908
-Chili Club,"1 Anne's Ln, Dublin 2, D02 Y052, Ireland",Thai,4.3,255,,http://chiliclub.ie/,53.3408739,-6.2596454999999995
-Nightmarket,"120 Ranelagh, Dublin 6, D06 VF76, Ireland",Thai,4.6,739,PRICE_LEVEL_MODERATE,http://nightmarket.ie/,53.3239053,-6.2511003999999994
-Saba,"22 Baggot Street Upper, Dublin 4, D04 W5R2, Ireland",Thai,4.4,869,PRICE_LEVEL_MODERATE,https://www.sabadublin.com/,53.333574899999995,-6.243758499999999
-Baan Thai Ballsbridge,"16 Merrion Rd, Ballsbridge, Dublin 4, D04 E9P7, Ireland",Thai,4.5,719,PRICE_LEVEL_MODERATE,https://www.baanthai.ie/ballsbridge-about/,53.3289919,-6.2302105999999995
-Opium,"26 Wexford St, Portobello, Dublin 2, D02 HX93, Ireland",Thai,4.3,2410,PRICE_LEVEL_MODERATE,https://www.opium.ie/,53.336693,-6.265716299999999
-Camile Thai Pearse Street,"43 Pearse St, Dublin 2, D02 W085, Ireland",Thai,4.2,1143,PRICE_LEVEL_MODERATE,https://www.camile.ie/,53.3442634,-6.249382199999999
-San Sab Drumcondra,"84 Drumcondra Rd Upper, Drumcondra, Dublin 9, D09 C2W0, Ireland",Thai,4.3,803,PRICE_LEVEL_MODERATE,http://www.sansab.ie/,53.3714746,-6.2530525
-Chob Thai Restaurant,"1 Vernon Ave, Clontarf, Dublin 3, D03 N773, Ireland",Thai,4.8,175,,https://chobthai.ie/,53.359307099999995,-6.1958607
 Pichet,"14-15 Trinity St, Dublin 2, D02 T998, Ireland",French,4.7,1817,PRICE_LEVEL_EXPENSIVE,https://pichet.ie/,53.343802,-6.262352
 La Maison,"15 Castle Market, Dublin 2, D02 C656, Ireland",French,4.6,1152,PRICE_LEVEL_MODERATE,http://www.lamaisondublin.com/,53.3422687,-6.2628933
 Chez Max,"1 Palace St, Dublin 2, D02 XR57, Ireland",French,4.5,2211,PRICE_LEVEL_MODERATE,https://chezmax.com/,53.343824999999995,-6.266325999999999
@@ -168,10 +129,11 @@ Damascus Gate Restaurant,"10 Camden Street Upper, Saint Kevin's, Dublin 2, D02 H
 Cafe Oasis,"54 King St N, Smithfield, Dublin, D07 EE76, Ireland",Mediterranean,4.5,970,PRICE_LEVEL_INEXPENSIVE,http://cafeoasis.ie/,53.3500186,-6.2757236999999995
 Tang (Dawson Street),"23C Dawson St, Dublin 2, Ireland",Mediterranean,4.8,1405,PRICE_LEVEL_INEXPENSIVE,https://www.tang.ie/,53.3396079,-6.2585684
 Corfu | Greek Restaurant,"12 Parliament St, Temple Bar, Dublin 2, D02 HV05, Ireland",Mediterranean,4.5,1071,PRICE_LEVEL_MODERATE,http://www.corfugreekrestaurant.ie/,53.344774099999995,-6.2673182
+La Caverna Restaurant and Wine Bar,"12 Fownes St Upper, Temple Bar, Dublin 2, D02 PY51, Ireland",Mediterranean,4.7,3192,PRICE_LEVEL_MODERATE,http://www.lacaverna.ie/,53.3451399,-6.2632768
 Tang (Cumberland Place),"2 Cumberland St S, Fenian St, Dublin 2, D02 H0V5, Ireland",Mediterranean,4.8,464,PRICE_LEVEL_MODERATE,https://www.tang.ie/,53.341727399999996,-6.2484815
 Table 45,"45 Hogan Pl, Dublin 2, D02 RF34, Ireland",Mediterranean,4.8,635,,http://www.table45.ie/bookings,53.340862900000005,-6.244781499999999
 Kicky's,"South Great George's Street, Dublin, D02 WK13, Ireland",Mediterranean,4.7,499,,https://kickys.ie/,53.343339199999996,-6.2645611
-Seemos Pizza,"George's Street Arcade, South Great George's Street, Dublin 2, D02 DH79, Ireland",Mediterranean,4.9,679,,http://www.seemospizza.ie/,53.3425115,-6.263432099999999
+Yeeros Wexford Street,"32 Wexford St, Portobello, Dublin 2, D02 K596, Ireland",Mediterranean,4.6,772,,https://www.yeeros.ie/,53.3369845,-6.2657973
 Hanoi Hanoi,"101 Capel St, Northside, Dublin 1, D01 H2X5, Ireland",Vietnamese,4.6,1027,,https://hanoihanoi.restaurant/,53.3500393,-6.269561899999999
 Pho Kim,"162 Parnell St, Rotunda, Dublin, D01 F5F3, Ireland",Vietnamese,4.5,1753,PRICE_LEVEL_INEXPENSIVE,http://www.phokim.ie/,53.353054699999994,-6.2610196
 Aobaba,"46A Capel St, North City, Dublin 1, D01 P293, Ireland",Vietnamese,4.6,1808,PRICE_LEVEL_INEXPENSIVE,,53.3488281,-6.268751099999999
@@ -180,6 +142,8 @@ Pho Ta,"6 Cope St, Temple Bar, Dublin, D02 NN52, Ireland",Vietnamese,4.5,1404,PR
 Madame Pho,"Exchequer St, Dublin 2, D02 P998, Ireland",Vietnamese,4.1,377,,https://madamepho.ie/,53.3431101,-6.2635765
 Vietnom,"The Glimmer Man 14, Stoneybatter, Arran Quay, Dublin 7, Co. Dublin, D07 RK37, Ireland",Vietnamese,4.9,84,,,53.350868500000004,-6.2819994
 Toca Tapioca House,"49 Fleet St, Temple Bar, Dublin, D02 XW26, Ireland",Vietnamese,4.8,2902,PRICE_LEVEL_MODERATE,http://www.tocatapioca.com/,53.3456353,-6.260844
+Kin Dee,"133 Leeson Street Upper, Dublin 4, D04 HX48, Ireland",Vietnamese,4.9,46,,https://kindee.ie/,53.3305508,-6.251606799999999
 Day n Night,"18 Denmark Street Great, Rotunda, Dublin, D01 YP86, Ireland",Vietnamese,4.6,607,PRICE_LEVEL_MODERATE,,53.355497199999995,-6.2612868
+Saba Restaurant,"7 William St S, Dublin 2, D02 CV65, Ireland",Vietnamese,4.3,1366,PRICE_LEVEL_MODERATE,https://sabadublin.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing&utm_term=gbp_south_william_street,53.342724700000005,-6.2622943
 SPACE JARU,"67-68 Meath St, The Liberties, Dublin 8, D08 X959, Ireland",Vietnamese,4.8,766,PRICE_LEVEL_MODERATE,http://www.jaru.ie/,53.3410473,-6.2782388
 Madame Pho (swan shopping center upstair),"6 Rathmines Rd Lower, Rathmines, Dublin 6, D06 XW92, Ireland",Vietnamese,4.8,35,,http://madamepho.ie/,53.3231554,-6.264962199999999
